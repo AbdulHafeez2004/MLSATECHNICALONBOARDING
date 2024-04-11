@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WhatsImportant?",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a summarizer app made with Natural Language Processing to extract important parts of full texts with high accuracy.",
+    url: "https://whatsimportant.onrender.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Binge",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a netflix-like movie recommender app which selects aand recommends movies and tv shows, also shows similar shows based on the ones you selected before. It was made with React and JavaScript.",
+    url: "https://github.com/AbdulHafeez2004/Binge-movie-app",
   },
   {
-    title: "My Resume Site",
+    title: "The Group Chat",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is an app which allows users around the globe to chat with each other in real time.",
+    url: "https://github.com/AbdulHafeez2004/TheGroupChat-Render",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "YouTube Downloader",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is an Automation solution which downloads the video which link is specified to the internal storage of the device after running the code.",
+    url: "https://github.com/AbdulHafeez2004/YT-downloader",
   },
 ];
 
